@@ -12,7 +12,7 @@ One should only have to navigate to the deployment page, but if that fails, they
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
- ![alt text](image.png)
+<img width="759" alt="Screenshot 2024-05-24 at 2 56 39 PM" src="https://github.com/ROlearyPro/self-care-center/assets/167711083/49be27ba-1b3b-4b67-b842-5bf724026326">
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
@@ -20,6 +20,7 @@ I worked on this project for roughly 20 hours over the course of the week. I'm c
 
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
+https://github.com/ROlearyPro
 
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
